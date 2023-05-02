@@ -1,4 +1,5 @@
-# TALLER_3
+#Talleres 2 y 3 JavaWeb
+
 SISTEMA DE LOGIN CON BASE DE DATOS DE USUARIOS Y CONEXION MYSQL
 
 Este proyecto es un sisstema de login que utiliza una base de datos de usuarios para loguearlos.
